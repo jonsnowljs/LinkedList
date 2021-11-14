@@ -3,7 +3,7 @@ package sait.sll.problemdomain;
 /**
  * Represents a user.
  * @author Jiasheng Lu
- * @version 2019-07-25
+ * @version 2021-11-14
  *
  */
 public class User {
